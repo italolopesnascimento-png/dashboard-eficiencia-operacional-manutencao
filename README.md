@@ -17,8 +17,9 @@ Nas duas abas dá para cruzar os dados por:
 - Unidade do cliente (`unidade_cliente`)
 
 ## Telas do projeto
+![Visão Geral](Vis%C3%A3o%20Geral.png)
 
-*(Aqui você pode colocar os prints das abas **Visão Geral** e **Gargalos e SLA**)*
+![Gargalos e SLA](Gargalos%20e%20SLA.png)
 
 ## Arquivo
 
